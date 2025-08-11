@@ -1,4 +1,6 @@
 import streamlit as st
+import nltk
+nltk.download('stopwords')
 import joblib
 import time
 import numpy as np
