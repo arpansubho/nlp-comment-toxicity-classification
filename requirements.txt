@@ -4,4 +4,12 @@ joblib==1.4.2
 streamlit==1.45.1
 scikit-learn==1.6.1
 xgboost==3.0.3
+spacy==3.8.7
+nltk==3.9.1
+regex==2024.11.6
+
+# spaCy English model (auto-install from GitHub)
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+
+google-api-python-client==2.178.0
 
